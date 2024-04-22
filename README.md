@@ -20,3 +20,8 @@ CPU: 4
 
 ## Reference:
 https://hatching.io/blog/cuckoo-sandbox-setup/
+
+
+https://beginninghacking.net/2022/11/16/how-to-setup-your-own-malware-analysis-box-cuckoo-sandbox/
+
+https://drive.google.com/drive/folders/1BsRPYC0v__GiwO8k558FDdGx9IbBAWoP?usp=sharing
